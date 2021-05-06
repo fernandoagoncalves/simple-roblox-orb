@@ -4,7 +4,7 @@ Disclaimer: This orb was created to work in Voidacity's Script Builder, using it
 
 How to use:
 
-	1. Get the orb script from **orb.lua**
+	1. Get the orb script from orb.lua
 	2. Join Voidacity's Script Builder in ROBLOX
 	3. Either run the script from your clipboard, or use the raw link
 
